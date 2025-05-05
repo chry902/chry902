@@ -12,4 +12,4 @@
 - [Koala Pub – Menu Web](https://koala-two-gamma.vercel.app/)
 
 ## 📊 Statistiche GitHub
-![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=chry902e&show_icons=true&theme=radical)
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=chry902_icons=true&theme=radical)
