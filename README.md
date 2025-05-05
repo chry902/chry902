@@ -30,4 +30,11 @@
 ![Grafico attività](https://github-readme-activity-graph.vercel.app/graph?username=chry902&theme=dracula)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chry902&show_icons=true&theme=radical)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=chry902&theme=radical&hide_border=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chry902&layout=compact&theme=radical)
 
