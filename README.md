@@ -2,7 +2,7 @@
 
 🎓 Junior Front-End Developer formato presso Edgemony  
 💻 Appassionato di sviluppo web e tecnologie moderne  
-📫 Contattami: [email@example.com](mailto:email@example.com)
+📫 Contattami: [chri.dev902@gmail.com](mailto:chri.dev902@gmail.com)
 
 ## 🚀 Competenze
 - HTML, CSS, JavaScript
