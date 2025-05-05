@@ -7,7 +7,13 @@
 ## 🚀 Competenze
 - HTML, CSS, JavaScript
 - React, Next, Astro, Tailwind CSS
+
+- 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind)](https://skillicons.dev)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
 
 ## 📂 Progetti
 - [Koala Pub – Menu Web](https://koala-two-gamma.vercel.app/)
