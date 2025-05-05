@@ -7,6 +7,7 @@
 ## 🚀 Competenze
 - HTML, CSS, JavaScript
 - React, Next, Astro, Tailwind CSS
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind)](https://skillicons.dev)
 
 ## 📂 Progetti
 - [Koala Pub – Menu Web](https://koala-two-gamma.vercel.app/)
@@ -24,4 +25,4 @@
 ![Grafico attività](https://github-readme-activity-graph.vercel.app/graph?username=chry902&theme=dracula)
 
 
-![Statistiche GitHub di chry902](https://github-readme-stats.vercel.app/api?username=chry902&show_icons=true&theme=tokyonight)
+
