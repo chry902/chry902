@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Ciao, sono Christopher Tarascio
 
-<!--
-**chry902/chry902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior Front-End Developer formato presso Edgemony  
+💻 Appassionato di sviluppo web e tecnologie moderne  
+📫 Contattami: [email@example.com](mailto:email@example.com)
 
-Here are some ideas to get you started:
+## 🚀 Competenze
+- HTML, CSS, JavaScript
+- React, Next, Astro, Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Progetti
+- [Koala Pub – Menu Web](https://koala-two-gamma.vercel.app/)
+
+## 📊 Statistiche GitHub
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&theme=radical)
